@@ -15,7 +15,7 @@ Segmentasi pelanggan memungkinkan bisnis untuk lebih memahami pelanggan mereka, 
     
 ## Dataset
 
-Kumpulan data yang digunakan dalam proyek ini tersedia di 'https://archive.ics.uci.edu/ml/machine-learning-databases/00352/Online%20Retail.xlsx' dan berisi semua pembelian yang dilakukan untuk perusahaan ritel online di Inggris selama delapan bulan.
+Kumpulan data yang digunakan dalam proyek ini tersedia di https://archive.ics.uci.edu/ml/machine-learning-databases/00352/Online%20Retail.xlsx dan berisi semua pembelian yang dilakukan untuk perusahaan ritel online di Inggris selama delapan bulan.
 
 ## Cara Menggunakan
 
